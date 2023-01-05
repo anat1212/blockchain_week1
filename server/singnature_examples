@@ -1,0 +1,6 @@
+my private key is: fa6e9a34a1cb387e6b4661a801437f9e1dc5d4b45a314ca17d2085c6199d5618
+my public key is: 04d2c6b483344c20a79dd9d50d9b6546af6dc6bf13498a695cca151515c04106b0c8bb20678f820954a77a5d60bce34f8d95e66204c4963622ae6e9989354e6934
+my public key address: 0xca7b9aec69825ea5d92cfb8cf42cf1fae2f4bc63
+My signature length is 3045022100d3d5d923cab11bbe589ee8934c091a07eaa3bf695344a63db11511948907009602203e577b5582f3fc5ec8bc330a4b15e13054a94afa261ff59d6e711ce74252540e 1
+Is recovered public key match public key: true
+recovery bit is: 1 (number 1 at the end of signature after space, add this one at the end of signature when entering in signature field, like "...2540e1")
